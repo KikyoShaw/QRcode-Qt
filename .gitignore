@@ -1,0 +1,33 @@
+# Visual Studio local state
+/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.aps
+Thumbs.db
+
+# Build output
+/Debug/
+/Release/
+/Win32/
+/x86/
+/x64/
+/QRcode/Debug/
+/QRcode/Release/
+/QRcode/Win32/
+/QRcode/x86/
+/QRcode/x64/
+
+# Qt generated files
+/QRcode/GeneratedFiles/
+/QRcode/moc_*.cpp
+/QRcode/moc_*.h
+/QRcode/qrc_*.cpp
+/QRcode/ui_*.h
+
+# qmake temporary state
+/.qmake.cache
+/.qmake.stash
+/QRcode/.qmake.cache
+/QRcode/.qmake.stash
